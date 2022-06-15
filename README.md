@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/drpiou/expo-secure-storage)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/drpiou/expo-secure-storage)
-![Jest tests](https://img.shields.io/badge/stage-beta-important)
+![Jest tests](https://img.shields.io/badge/stage-experimental-important)
 ![GitHub all releases](https://img.shields.io/github/downloads/drpiou/expo-secure-storage/total)
 
 The `@drpiou/expo-secure-store` package wraps the `expo-secure-store` package.
