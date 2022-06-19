@@ -39,7 +39,7 @@ expo install expo-secure-store
 
 ## Example
 
-```typescript jsx
+```typescript
 import { SecureStore } from '@drpiou/expo-secure-store';
 
 type StorageItemValueMap = {
