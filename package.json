@@ -1,9 +1,9 @@
 {
   "name": "@drpiou/expo-secure-storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wraps the expo-secure-store package.",
   "keywords": [],
-  "author": "Alex <dr.piou@gmail.com>",
+  "author": "Alex <hello@drpiou.dev>",
   "homepage": "https://github.com/drpiou/expo-secure-storage#readme",
   "license": "ISC",
   "main": "./lib/cjs/index.js",
@@ -28,6 +28,7 @@
     "build": "rollup -c",
     "watch": "rollup -cw",
     "prepare": "yarn build && yarn test",
+    "publish": "npm publish --access public",
     "toc": "gh-md-toc --insert",
     "test": "npx jest __tests__"
   },
