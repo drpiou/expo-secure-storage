@@ -28,7 +28,6 @@
     "build": "rollup -c",
     "watch": "rollup -cw",
     "prepare": "yarn build && yarn test",
-    "publish": "npm publish --access public",
     "toc": "gh-md-toc --insert",
     "test": "npx jest __tests__"
   },
